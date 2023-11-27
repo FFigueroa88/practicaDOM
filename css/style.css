@@ -1,0 +1,22 @@
+body{
+    background-color: bisque;
+}
+p{
+    background: skyblue;
+    font-family: "Courier New",monospace;
+}
+table, td{
+    border: 1px solid blue;
+    text-align: center;
+}
+
+td{
+    padding: 10px;
+}
+main{
+    margin-left: 30px;
+    margin-top: 50px;
+}
+h2{
+    margin-top: 50px;
+}
